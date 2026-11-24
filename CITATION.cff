@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you utilize this architecture, benchmark suite, or findings in your academic or industrial research, please cite it as below."
+authors:
+  - family-names: "Saurabh"
+    affiliation: "Möbius Research Lab"
+title: "Möbius Continuum: Synaptic Neurogenesis and Non-Parametric Episodic Retention for Continual Learning in Small Language Models"
+version: 1.0.0
+date-released: 2026-11-24
+license: "CC-BY-4.0"
+repository-code: "https://github.com/mobius-continuum/mobius-continuum"
+keywords:
+  - "continual learning"
+  - "catastrophic forgetting"
+  - "small language models"
+  - "complementary learning systems"
+  - "edge AI"
+  - "LoRA"
