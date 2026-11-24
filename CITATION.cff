@@ -7,7 +7,7 @@ title: "Möbius Continuum: Synaptic Neurogenesis and Non-Parametric Episodic Ret
 version: 1.0.0
 date-released: 2026-11-24
 license: "CC-BY-4.0"
-repository-code: "https://github.com/mobius-continuum/mobius-continuum"
+repository-code: "https://github.com/saurabh6758dg-maker/mobius-continuum"
 keywords:
   - "continual learning"
   - "catastrophic forgetting"

@@ -26,7 +26,7 @@ By coupling a non-parametric Hippocampal Vault with isolated synaptic adapters v
 - 98.0% routing accuracy across 100 diverse queries.
 
 To respect your time: zero hype, zero vendor lock-in. The full 2-column preprint, 1-command benchmark reproduction script, and raw verification logs are open:
-- Repository: https://github.com/mobius-continuum/mobius-continuum
+- Repository: https://github.com/saurabh6758dg-maker/mobius-continuum
 - Preprint: paper.pdf (attached)
 
 Would love your brutal technical feedback on our 4-way ablation methodology.
@@ -55,7 +55,7 @@ We built and open-sourced Möbius Continuum — a biologically-inspired Dual-Mem
 - Matches RAG accuracy (100%) at 7x lower compute with zero context bloat (bounded <=25 tokens).
 - Proven +7.33% Backward Transfer (zero catastrophic forgetting) across MMLU & GSM8K.
 
-Code, benchmark suite, and paper: https://github.com/mobius-continuum/mobius-continuum
+Code, benchmark suite, and paper: https://github.com/saurabh6758dg-maker/mobius-continuum
 
 Looking to connect on deploying this for high-privacy, edge-native enterprise applications.
 
@@ -89,5 +89,5 @@ Möbius Research Lab
 > On 50 diverse MMLU & GSM8K problems, Backward Transfer (BWT) was +7.33%. Zero degradation of base model capabilities.
 > 
 > Paper, benchmarks, and 1-click reproduction:
-> 📦 GitHub: https://github.com/mobius-continuum/mobius-continuum
+> 📦 GitHub: https://github.com/saurabh6758dg-maker/mobius-continuum
 > 📄 Preprint: CC-BY 4.0 Open Access

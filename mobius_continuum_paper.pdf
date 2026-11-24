@@ -18,7 +18,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 7 0 obj
-<< /Length 8736 >>
+<< /Length 8739 >>
 stream
 BT /F3 8 Tf 180.0 755.0 Td (NeurIPS / ICLR Workshop on Continual & Edge AI \(Preprint\)) Tj ET
 0.8 w 45.0 748.0 m 567.0 748.0 l S
@@ -135,7 +135,7 @@ BT /F1 7.2 Tf 295.0 77.0 Td (98.0%) Tj ET
 BT /F1 7.2 Tf 365.0 77.0 Td (1.26ms) Tj ET
 BT /F1 7.2 Tf 435.0 77.0 Td (OOD Rejection Verified) Tj ET
 1.0 w 45.0 69.0 m 565.0 69.0 l S
-BT /F3 7.5 Tf 45.0 30.0 Td (Mobius Continuum v1.0.0 \(Nov 2026\) - Open Source Benchmark Suite - https://github.com/mobius-continuum/mobius-continuum) Tj ET
+BT /F3 7.5 Tf 45.0 30.0 Td (Mobius Continuum v1.0.0 \(Nov 2026\) - Open Source Benchmark Suite - https://github.com/saurabh6758dg-maker/mobius-continuum) Tj ET
 BT /F3 7.5 Tf 540.0 30.0 Td (Page 1 of 1) Tj ET
 
 endstream
@@ -153,5 +153,5 @@ xref
 trailer
 << /Size 8 /Root 1 0 R >>
 startxref
-9262
+9265
 %%EOF

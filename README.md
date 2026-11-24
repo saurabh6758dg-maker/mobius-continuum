@@ -39,7 +39,7 @@ Official code and empirical replication repository for **Möbius Continuum**, a 
 ### 1. Installation
 Clone this repository and install minimal dependencies:
 ```bash
-git clone https://github.com/mobius-research/mobius-continuum.git
+git clone https://github.com/saurabh6758dg-maker/mobius-continuum.git
 cd mobius-continuum
 pip install torch transformers peft
 ```
